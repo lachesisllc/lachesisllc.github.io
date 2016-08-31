@@ -1,17 +1,32 @@
 {% include header.html %}
 
-    {% include title-group.html %}
+			<!-- main-container start -->
+			<!-- ================ -->
+			<section class="main-container">
 
-    <article>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-10 col-md-offset-1">
+				<div class="container">
+					<div class="row">
 
+						<!-- main start -->
+						<!-- ================ -->
+						<div class="main col-md-12">
 
-                    {{ content }}
-                </div>
-            </div>
-        </div>
-    </article>
+							<!-- page-title start -->
+							<!-- ================ -->
+							<h1 class="page-title">{{ page.title }}</h1>
+							<div class="separator-2"></div>
+							<!-- page-title end -->
+
+                            {{ content }}
+
+						</div>
+						<!-- main end -->
+
+					</div>
+				</div>
+
+			</section>
+			<!-- main-container end -->
+
 
 {% include footer.html %}
