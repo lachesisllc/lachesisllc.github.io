@@ -11,4 +11,9 @@ lead_text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita m
 
 ## Header 2
 
+* Something New
+- This is a bullet
+  - This is a sub bullet
+- Some more
+
 Etc etc... Hello dolly? 
