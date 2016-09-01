@@ -14,3 +14,4 @@ My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1
 
 Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have... then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn't commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.
 
+Chris's edit.
