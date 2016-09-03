@@ -1,10 +1,9 @@
-<nav class="pagination-wrap">
+<!-- pagination start -->
+<nav>
     <ul class="pagination">
         {% if paginator.previous_page %}
         <li>
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Previous">
-                <span aria-hidden="true">&laquo;</span>
-            </a>
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Previous"><i class="fa fa-angle-left"></i></a>
         </li>
         {% endif %}
 
@@ -26,9 +25,7 @@
 
         {% if paginator.next_page %}
         <li>
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Next">
-                <span aria-hidden="true">&raquo;</span>
-            </a>
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Next"><i class="fa fa-angle-right"></i></a>
         </li>
         {% endif %}
     </ul>

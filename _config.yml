@@ -9,7 +9,7 @@ data_dir: ./_data
 # Handling Reading
 safe:         false
 include:      [".htaccess"]
-exclude:      []
+exclude:      ["CNAME", "README.md"]
 keep_files:   [".git", ".svn"]
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -37,9 +37,9 @@ host:    127.0.0.1
 baseurl: "" # does not include hostname
 
 # Outputting
-permalink:     /:title.html
-paginate: 10
-paginate_path: /page:num
+permalink:     /:collection/:title
+paginate: 2
+paginate_path: /posts/pg.:num
 timezone:      null
 
 quiet:    false

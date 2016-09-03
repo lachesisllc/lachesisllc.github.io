@@ -1,34 +1,71 @@
-<div class="tile">
-    {% if post.featured_image or post.featured_video_id %}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="featurette">
-        {% if post.featured_image %}
-        <span class="img" style="background-image: url('{{ post.featured_image }}');"></span>
-        {% endif %}
-
-        {% if post.featured_video_id %}
-        <iframe src="https://www.youtube.com/embed/{{ post.featured_video_id }}" frameborder="0" allowfullscreen></iframe>
-        {% endif %}
-    </a>
+    {% if post.featured_image %}
+    						<!-- blogpost start -->
+							<article class="blogpost">
+								<div class="row grid-space-10">
+									<div class="col-md-6">
+										<div class="overlay-container">
+											<img src="{{ post.featured_image }}" alt="">
+											<a class="overlay-link" href="{{ post.url | prepend: site.baseurl }}"><i class="fa fa-link"></i></a>
+										</div>
+									</div>
+									<div class="col-md-6">
+										<header>
+											<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+											<div class="post-info">
+												<span class="post-date">
+													<i class="icon-calendar"></i>
+													{% include post-date-format.html %}
+												</span>
+                                                {% if post.author %}
+												<span class="submitted"><i class="icon-user-1"></i> by <a href="#">{{ post.author }}</a></span>
+                                                {% endif %}
+											</div>
+										</header>
+										<div class="blogpost-content">
+                                            {{ post.excerpt }}
+										</div>
+									</div>
+								</div>
+								<footer class="clearfix">
+                                    {% if post.categories != empty %}
+									<div class="tags pull-left"><i class="icon-tags"></i>
+                                        {% for tag in post.tags %}
+                                        <a href="#">{{ tag }}</a> 
+                                        {% endfor %}
+                                    {% endif %}
+									<div class="link pull-right"><i class="icon-link"></i><a href="{{ post.url | prepend: site.baseurl }}">Read More</a></div>
+								</footer>
+							</article>
+							<!-- blogpost end -->
+    {% else %}
+							<!-- blogpost start -->
+							<article class="blogpost">
+								<header>
+									<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+									<div class="post-info">
+                                        <span class="post-date">
+                                            <i class="icon-calendar"></i>
+                                            {% include post-date-format.html %}
+                                        </span>
+                                        {% if post.author %}
+                                        <span class="submitted"><i class="icon-user-1"></i> by <a href="#">{{ post.author }}</a></span>
+                                        {% endif %}
+									</div>
+								</header>
+                                <div class="blogpost-content">
+                                    {{ post.excerpt }}
+                                </div>
+								<footer class="clearfix">
+                                    {% if post.categories != empty %}
+									<div class="tags pull-left"><i class="icon-tags"></i>
+                                        {% for tag in post.tags %}
+                                        <a href="#">{{ tag }}</a> 
+                                        {% endfor %}
+                                    {% endif %}
+									<div class="link pull-right"><i class="icon-link"></i><a href="{{ post.url | prepend: site.baseurl }}">Read More</a></div>
+								</footer>
+							</article>
+							<!-- blogpost end -->
     {% endif %}
-    <div class="inner-guts">
-        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <aside>
-            {{ post.date | date: "%m.%d.%y" }}
-            {% if post.categories != empty %}
-                &middot;
-                {% for category in post.categories %}
-                    <span>{{ category }}</span>
-                {% endfor %}
-            {% endif %}
-        </aside>
-        <div class="excerpt">{{ post.excerpt }}</div>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="read-more btn btn-info btn-lg">Read More <i class="fa fa-angle-right"></i></a>
-        {% if post.categories != empty %}
-        <div class="tags">
-            {% for tag in post.tags %}
-            <span>{{ tag }}</span>
-            {% endfor %}
-        </div>
-        {% endif %}
-    </div>
-</div>
+
+
