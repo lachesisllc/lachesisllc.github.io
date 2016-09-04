@@ -14,10 +14,12 @@
 										<div class="separator-2"></div>
 										<nav>
 											<ul class="nav nav-pills nav-stacked">
-												<li><a href="mailto:{{ site.data.global.email }}?subject=Support question from {{ page.url }}">Support</a></li>
+												<li><a href="mailto:{{ site.data.global.email }}?subject=Support question from {{ page.url }}">Contact Us</a></li>
+												<!--
 												<li><a href="#">Privacy</a></li>
 												<li><a href="#">Terms</a></li>
 												<li><a href="/about/">About</a></li>
+												-->
 											</ul>
 										</nav>
 									</div>
@@ -30,7 +32,11 @@
 										<div class="media margin-clear">
 											<div class="media-left">
 												<div class="overlay-container">
+													{% if post.featured_image %}
+													<img class="media-object" src="{{ post.featured_image }}" alt="blog-thumb">
+													{% else %}
 													<img class="media-object" src="/images/blog-thumb-1.jpg" alt="blog-thumb">
+													{% endif %}
 													<a href="{{ post.url }}" class="overlay-link small"><i class="fa fa-link"></i></a>
 												</div>
 											</div>
