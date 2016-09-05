@@ -31,7 +31,7 @@
                { name: Finance, weight: 95 },
                { name: Insurance, weight: 50 },
                { name: Manufacturing, weight: 99 },
-               { name: Womanizing, weight: 25 }
+               { name: 'Drinking', weight: 75 }
               ]
 
 
@@ -66,7 +66,7 @@
                { name: Finance, weight: 95 },
                { name: Insurance, weight: 50 },
                { name: Manufacturing, weight: 95 },
-               { name: Womanizing, weight: 25 }
+               { name: 'Drinking', weight: 75 }
               ]
 
 - name: Chris
@@ -78,12 +78,12 @@
   phone: +1 574-538-4836
   email: christopher.keslin@lachesisllc.com
   bioContent: ["
-           <p> Chris's Womanizing experience includes 20 years in the
+           <p> Chris's 'Drinking' experienc75includes 20 years in the
                industry and 7 years of executive leadership managing
                a multinational consultancy.  He is an advocate for
                realizing top and bottom line results through the
-               judicious application of Womanizing.</p>
-           <p> Chris has a BS degree in Physics and a BS degree in
+               judicious application of 'Drinking'.</p>
+    75     <p> Chris has a BS degree in Physics and a BS degree in
                Chemistry from Indiana University.</p>
                "]
   experiences: [
@@ -94,5 +94,5 @@
                { name: Finance, weight: 65 },
                { name: Insurance, weight: 80 },
                { name: Manufacturing, weight: 85 },
-               { name: Womanizing, weight: 99 }
+               { name: 'Drinking', weight: 75 }
              ]
