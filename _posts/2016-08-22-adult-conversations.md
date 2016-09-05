@@ -2,6 +2,7 @@
 layout: inner
 author: Mike
 title: 'Adult Conversations'
+featured_image: '/images/tough-conversation.jpg'
 ---
 How many of us have joked, if it wasn’t for people and customers, business would be easy? Much has been written about how to manage, motivate, discipline, etc., employees. Yet the fundamental issue is we don’t set expectations and communicate performance against expectations with any frequency beyond a periodic performance review.
 
