@@ -1,4 +1,9 @@
-    {% if post.featured_image %}
+	{% if post.author %}
+	{% assign team_member = site.data.team | where: "name", post.author %}
+	{% assign author = team_member[0] %}
+	{% endif %}
+
+	{% if post.featured_image %}
     						<!-- blogpost start -->
 							<article class="blogpost">
 								<div class="row grid-space-10">
@@ -16,8 +21,8 @@
 													<i class="icon-calendar"></i>
 													{% include post-date-format.html %}
 												</span>
-                                                {% if post.author %}
-												<span class="submitted"><i class="icon-user-1"></i> by <a href="#">{{ post.author }}</a></span>
+                                                {% if author %}
+												<span class="submitted"><i class="icon-user-1"></i> by <a href="/founders#{{ author.name }}">{{ author.fullName }}</a></span>
                                                 {% endif %}
 											</div>
 										</header>
@@ -47,9 +52,9 @@
                                             <i class="icon-calendar"></i>
                                             {% include post-date-format.html %}
                                         </span>
-                                        {% if post.author %}
-                                        <span class="submitted"><i class="icon-user-1"></i> by <a href="#">{{ post.author }}</a></span>
-                                        {% endif %}
+											{% if author %}
+											<span class="submitted"><i class="icon-user-1"></i> by <a href="/founders#{{ author.name }}">{{ author.fullName }}</a></span>
+											{% endif %}
 									</div>
 								</header>
                                 <div class="blogpost-content">

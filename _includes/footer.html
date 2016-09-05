@@ -34,6 +34,14 @@
 												<div class="overlay-container">
 													{% if post.featured_image %}
 													<img class="media-object" src="{{ post.featured_image }}" alt="blog-thumb">
+													{% else if post.author %}
+													{% assign team_member = site.data.team | where: "name", post.author %}
+													{% assign author = team_member[0] %}
+													  {% if author.profileImage %}
+													<img class="media-object" src="{{ author.profileImage }}" alt="blog-thumb">
+													  {% else %}
+													<img class="media-object" src="/images/blog-thumb-1.jpg" alt="blog-thumb">
+													  {% endif %}												  											
 													{% else %}
 													<img class="media-object" src="/images/blog-thumb-1.jpg" alt="blog-thumb">
 													{% endif %}

@@ -1,5 +1,6 @@
 ---
 layout: inner
+author: Chris
 title: 'R Code Tips and Tricks'
 categories: ["big data", "development"]
 tags: ["big data", "development"]
