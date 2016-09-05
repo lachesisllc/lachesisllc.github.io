@@ -1,0 +1,69 @@
+- name: Mike
+  fullName: Michael Topa
+  title: Partner
+  profileImage: /images/profiles/mike-topa-profile.jpg
+  linkedInUrl: https://www.linkedin.com/in/valuecreationexecutive
+  tagline: <em> Something Catchy </em> <br> Brasil!!!
+  phone: +1 574-538-4836
+  email: mike.topa@lachesisllc.com
+  bioContent: ["
+           <p> Mike's private equity experience includes five portfolio
+               companies, three in which he was an investor as well
+               an operating executive. Additionally, he has served as
+               interim CFO and Director of MISCOR Group, a publicly
+               traded company, prior to its successful merger into
+               Integrated Electrical Services. </p>
+           <p> He has held C-level and Director positions with
+               businesses ranging in revenues from $20M to $250M.
+               All of Mike’s engagements have been high growth,
+               start-up or turnaround situations, most highly 
+               leveraged.</p>
+           <p> Mike has BA degrees in Accounting and Business
+               Systems Analysis. Additionally, he holds a certified
+               public accountant license from the State of Ohio (non-
+               practicing).</p>
+               "]
+
+- name: Steve
+  fullName: Steve Gawonski
+  title: Partner
+  profileImage: /images/profiles/steve-gawronski-profile.jpg
+  linkedInUrl: https://www.linkedin.com/in/steve-gawronski-86511447
+  tagline: <em> Something Slovak </em> <br> Slovak!!!
+  phone: +1 574-538-4836
+  email: steve.gawronski@lachesisllc.com
+  bioContent: ["
+           <p> Steve has over 25 years of professional experience in
+               the areas of executive management, corporate finance,
+               taxation and human resources.  Steve has significant
+               international experience having served as a partner
+               with Deloitte in Central Europe for 13 years where he
+               led several business units ranging in size from $5
+               million to $100 million in revenue.</p>
+           <p> Steve has an accounting degree from Indiana
+               University, a Masters degree in taxation from DePaul
+               University and is a Magna Cum Laude graduate from
+               Notre Dame's executive MBA program.  Steve is a
+               member of the Irish Angels investment group and he
+               is a licensed CPA in Indiana and Illinois.</p>
+               "]
+
+- name: Chris
+  fullName: Christopher Keslin
+  title: Partner
+  profileImage: /images/profiles/chris-keslin-profile.jpg
+  linkedInUrl: https://www.linkedin.com/in/christopherkeslin
+  tagline: <em> Something Nerdy </em> <br> Australia!!!
+  phone: +1 574-538-4836
+  email: christopher.keslin@lachesisllc.com
+  bioContent: ["
+           <p> Chris's technology experience includes 20 years in the
+               industry and 7 years of executive leadership managing
+               a multinational consultancy.  He is an advocate for
+               realizing top and bottom line results through the
+               judicious application of technology.</p>
+           <p> Chris has BS degrees in Physics and Chemistry from
+               Indiana University.</p>
+               "]
+
+

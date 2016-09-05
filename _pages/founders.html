@@ -1,0 +1,98 @@
+---
+layout: banner
+title: Founders
+permalink: /founders/
+---
+
+			<!-- main-container start -->
+			<!-- ================ -->
+			<section class="main-container">
+
+				<div class="container">
+					<div class="row">
+
+						<!-- main start -->
+						<!-- ================ -->
+						<div class="main col-md-12">
+
+							<!-- page-title start -->
+							<!-- ================ -->
+							<h1 class="page-title">Our Founders</h1>
+							<div class="separator-2"></div>
+							<!-- page-title end -->
+                            {% for member in site.data.team %}
+							<div class="image-box team-member style-3-b">
+								<div class="row">
+									<div class="col-sm-6 col-md-4 col-lg-3">
+										<div class="overlay-container overlay-visible">
+											<img src="{{ member.profileImage }}" alt="">
+											<a href="{{ member.profileImage }}" class="popup-img overlay-link" title="{{ member.fullName }} - {{ member.title }}"><i class="icon-plus-1"></i></a>
+											<div class="overlay-bottom hidden-xs">
+												<div class="text">
+													<p class="small margin-clear">{{ member.tagline }}</em></p>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-6 col-md-4 col-lg-6">
+										<div class="body">
+											<h3 class="title margin-clear">{{ member.fullName }} - <small>{{ member.title }}</small></h3>
+											<div class="separator-2 mt-10"></div>
+                                            {{ member.bioContent }}
+											<ul class="social-links circle margin-clear colored">
+												<li class="linkedin"><a target="_blank" href="{{ member.linkedInUrl }}"><i class="fa fa-linkedin"></i></a></li>
+											</ul>
+											<br>
+											<a href="tel:{{ member.phone | remove: ' ' | remove: '+' | remove: '-' }}" class="btn btn-gray-transparent"><i class="pr-10 fa margin-clear fa-phone"></i>Call</a>
+											<a href="mailto:{{ member.email}}" class="btn btn-gray-transparent"><i class="pr-10 margin-clear fa fa-envelope-o"></i>Contact</a>
+										</div>
+									</div>
+									<div class="col-sm-12 col-md-4 col-lg-3">
+										<div class="pv-20 visible-lg visible-md"></div>
+										<div class="progress style-1 dark">
+											<span class="text"></span>
+											<div class="progress-bar progress-bar-white" role="progressbar" data-animate-width="95%">
+												<span class="label object-non-visible" data-animation-effect="fadeInLeftSmall" data-effect-delay="1000">CSS</span>
+											</div>
+										</div>
+										<div class="progress style-1 dark">
+											<span class="text"></span>
+											<div class="progress-bar progress-bar-white" role="progressbar" data-animate-width="85%">
+												<span class="label object-non-visible" data-animation-effect="fadeInLeftSmall" data-effect-delay="1000">HTML5</span>
+											</div>
+										</div>
+										<div class="progress style-1 dark">
+											<span class="text"></span>
+											<div class="progress-bar progress-bar-white" role="progressbar" data-animate-width="95%">
+												<span class="label object-non-visible" data-animation-effect="fadeInLeftSmall" data-effect-delay="1000">Design</span>
+											</div>
+										</div>
+										<div class="progress style-1 dark">
+											<span class="text"></span>
+											<div class="progress-bar progress-bar-white" data-animate-width="80%">
+												<span class="label object-non-visible" data-animation-effect="fadeInLeftSmall" data-effect-delay="1000">PHP</span>
+											</div>
+										</div>
+										<div class="progress style-1 dark">
+											<span class="text"></span>
+											<div class="progress-bar progress-bar-white" data-animate-width="85%">
+												<span class="label object-non-visible" data-animation-effect="fadeInLeftSmall" data-effect-delay="1000">jQuery</span>
+											</div>
+										</div>
+										<div class="progress style-1 dark">
+											<span class="text"></span>
+											<div class="progress-bar progress-bar-white" data-animate-width="90%">
+												<span class="label object-non-visible" data-animation-effect="fadeInLeftSmall" data-effect-delay="1000">Drupal</span>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+                            {% endfor %}
+						</div>
+						<!-- main end -->
+							
+					</div>
+				</div>
+			</section>
+			<!-- main-container end -->
