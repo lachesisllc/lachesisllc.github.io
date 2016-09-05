@@ -1,7 +1,7 @@
 ---
 layout: inner
 author: Mike
-title: 'Someone buy my Company, Please'
+title: 'Someone Buy my Company, Please'
 ---
 Selling your company is never an easy decision and a process not often understood.  Preparing the company to be sold begins long before the decision to sell, though far too few owners realize this and subsequently, may receive a lower valuation and extend the process.
 
