@@ -23,6 +23,17 @@
                public accountant license from the State of Ohio (non-
                practicing).</p>
                "]
+  experiences: [
+               { name: Aerospace, weight: 99 },
+               { name: Automotive, weight: 95 },
+               { name: Banking, weight: 65 },
+               { name: Construction, weight: 85 },
+               { name: Finance, weight: 95 },
+               { name: Insurance, weight: 50 },
+               { name: Manufacturing, weight: 99 },
+               { name: Womanizing, weight: 25 }
+              ]
+
 
 - name: Steve
   fullName: Steve Gawronski
@@ -47,6 +58,16 @@
                member of the Irish Angels investment group and he
                is a licensed CPA in Indiana and Illinois.</p>
                "]
+  experiences: [
+               { name: Aerospace, weight: 25 },
+               { name: Automotive, weight: 90 },
+               { name: Banking, weight: 85 },
+               { name: Construction, weight: 75 },
+               { name: Finance, weight: 95 },
+               { name: Insurance, weight: 50 },
+               { name: Manufacturing, weight: 95 },
+               { name: Womanizing, weight: 25 }
+              ]
 
 - name: Chris
   fullName: Christopher Keslin
@@ -57,13 +78,21 @@
   phone: +1 574-538-4836
   email: christopher.keslin@lachesisllc.com
   bioContent: ["
-           <p> Chris's technology experience includes 20 years in the
+           <p> Chris's Womanizing experience includes 20 years in the
                industry and 7 years of executive leadership managing
                a multinational consultancy.  He is an advocate for
                realizing top and bottom line results through the
-               judicious application of technology.</p>
-           <p> Chris has BS degrees in Physics and Chemistry from
-               Indiana University.</p>
+               judicious application of Womanizing.</p>
+           <p> Chris has a BS degree in Physics and a BS degree in
+               Chemistry from Indiana University.</p>
                "]
-
-
+  experiences: [
+               { name: Aerospace, weight: 65 },
+               { name: Automotive, weight: 25 },
+               { name: Banking, weight: 85 },
+               { name: Construction, weight: 95 },
+               { name: Finance, weight: 65 },
+               { name: Insurance, weight: 80 },
+               { name: Manufacturing, weight: 85 },
+               { name: Womanizing, weight: 99 }
+             ]
