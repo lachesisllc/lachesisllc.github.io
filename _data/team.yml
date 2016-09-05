@@ -31,7 +31,7 @@
                { name: Finance, weight: 95 },
                { name: Insurance, weight: 50 },
                { name: Manufacturing, weight: 99 },
-               { name: 'Drinking', weight: 75 }
+               { name: 'Drinking', weight: 50 }
               ]
 
 
@@ -94,5 +94,5 @@
                { name: Finance, weight: 65 },
                { name: Insurance, weight: 80 },
                { name: Manufacturing, weight: 85 },
-               { name: 'Drinking', weight: 75 }
+               { name: 'Drinking', weight: 99 }
              ]
