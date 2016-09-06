@@ -3,7 +3,7 @@
   title: Partner
   profileImage: /images/profiles/mike-topa-profile.jpg
   linkedInUrl: https://www.linkedin.com/in/valuecreationexecutive
-  tagline: <em> Cool as a cucumber. </em>
+  tagline: <em> Takes residence in the eye the storm. </em>
   phone: +1 574-538-4836
   email: mike.topa@lachesisllc.com
   bioContent: ["
@@ -31,7 +31,7 @@
                { name: Finance, weight: 95 },
                { name: Insurance, weight: 50 },
                { name: Manufacturing, weight: 99 },
-               { name: 'Day Drinking', weight: 50 }
+               { name: Technology, weight: 50 }
               ]
 - name: Steve
   fullName: Steve Gawronski
@@ -64,7 +64,7 @@
                { name: Finance, weight: 95 },
                { name: Insurance, weight: 50 },
                { name: Manufacturing, weight: 95 },
-               { name: 'Day Drinking', weight: 75 }
+               { name: Technology, weight: 35 }
               ]
 - name: Chris
   fullName: Christopher Keslin
@@ -91,5 +91,5 @@
                { name: Finance, weight: 65 },
                { name: Insurance, weight: 80 },
                { name: Manufacturing, weight: 85 },
-               { name: 'Day Drinking', weight: 99 }
+               { name: Technology, weight: 99 }
              ]
