@@ -1,7 +1,7 @@
 ---
 layout: inner
 author: Steve
-title: 'Observations from the field: operations and strategy – aren't they the same?'
+title: "Observations from the field: operations and strategy – aren't they the same?"
 ---
 Quite often, we are invited to sit with our clients to discuss and review their strategy. The discussion almost always ends up with them asking us how we can help them be more operationally efficient so that they can reduce costs and be more competitive.  The discussion that is all too often missing, or even avoided, is what can they do differently from their competitors so that they gain a SUSTAINABLE advantage in the eyes of their customers. I often wonder why companies shy away from this part of the discussion and the only conclusion to which I can come is that it is avoided because it is too abstract. Cutting costs and driving efficiency is usually something that can be seen or touched. Reduce man hours, drive down prices from suppliers, outsource non-key functions, upgrade to more efficient machinery. All of this can be calculated. All of this can be done. And with all of this there is a more or less a direct cause and effect relationship that can be seen. If I reduce headcount, my costs will go down, which will enable me to slightly lower my prices which will make me more attractive to my customers. 
 
