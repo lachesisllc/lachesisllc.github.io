@@ -38,7 +38,7 @@ baseurl: "" # does not include hostname
 
 # Outputting
 permalink:     /:collection/:title
-paginate: 10
+paginate: 5
 paginate_path: /posts/pg.:num
 timezone:      null
 
