@@ -1387,7 +1387,7 @@
 					resizing: true
 				});
 			} else {
-				$(".video-background-banner").vide({
+				$(".video-background-banner").vide({ 
 					mp4: "/videos/background-video-banner.mp4",
 					webm: "/videos/background-video-banner.webm",
 					poster: "/videos/video-banner-poster.jpg"
