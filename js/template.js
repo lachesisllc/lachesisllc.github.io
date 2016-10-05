@@ -1373,9 +1373,9 @@
 		if($(".video-background-banner").length>0) {
 			if (Modernizr.touch) {
 				$(".video-background-banner").vide({
-					mp4: "videos/background-video-banner.mp4",
-					webm: "videos/background-video-banner.webm",
-					poster: "videos/video-fallback.jpg"
+					mp4: "/videos/background-video-banner.mp4",
+					webm: "/videos/background-video-banner.webm",
+					poster: "/videos/video-fallback.jpg"
 				}, {
 					volume: 1,
 					playbackRate: 1,
@@ -1388,9 +1388,9 @@
 				});
 			} else {
 				$(".video-background-banner").vide({
-					mp4: "videos/background-video-banner.mp4",
-					webm: "videos/background-video-banner.webm",
-					poster: "videos/video-banner-poster.jpg"
+					mp4: "/videos/background-video-banner.mp4",
+					webm: "/videos/background-video-banner.webm",
+					poster: "/videos/video-banner-poster.jpg"
 				}, {
 					volume: 1,
 					playbackRate: 1,
