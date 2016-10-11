@@ -2,8 +2,10 @@
 layout: inner
 author: Mike
 title: 'Where is the Music?'
+featured_image: '/images/where_is_the_music.jpg'
+excerpt: 'Accountants are well trained in the assembly of financial statements, compliance with GAAP and internal controls to assure data is captured and reported properly.  The concept of double entry accounting, proper presentation of activity and the imperative of compliance are ground rules for financial statement presentation...'
 ---
-
+![Chart]({{ site.url }}/images/where_is_the_music.jpg)
 Accountants are well trained in the assembly of financial statements, compliance with GAAP and internal controls to assure data is captured and reported properly.  The concept of double entry accounting, proper presentation of activity and the imperative of compliance are ground rules for financial statement presentation.  
  
 The result is if you have an accounting background the reporting is well understood.  Yet many financial statement users don’t have an understanding of accounting, including operating management and company owners.
