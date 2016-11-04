@@ -31,7 +31,7 @@
                { name: Finance, weight: 95 },
                { name: Insurance, weight: 50 },
                { name: Manufacturing, weight: 99 },
-               { name: Technology, weight: 50 }
+               { name: Logistics, weight: 99 }
               ]
 - name: Steve
   fullName: Steve Gawronski
@@ -64,7 +64,7 @@
                { name: Finance, weight: 95 },
                { name: Insurance, weight: 50 },
                { name: Manufacturing, weight: 95 },
-               { name: Technology, weight: 35 }
+               { name: Logistics, weight: 80 }
               ]
 - name: Chris
   fullName: Christopher Keslin
@@ -91,5 +91,5 @@
                { name: Finance, weight: 65 },
                { name: Insurance, weight: 80 },
                { name: Manufacturing, weight: 85 },
-               { name: Technology, weight: 99 }
+               { name: Logistics, weight: 75 }
              ]
