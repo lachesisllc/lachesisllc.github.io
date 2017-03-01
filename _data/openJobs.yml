@@ -1,30 +1,30 @@
-# -   category: Technology 
-#     icon: database
-#     active: true
-#     jobs: [  
-#             {title: foo10, description: <p> Candidate must have ERP technical skills and intellectual curiosity.
-#                                              Have the ability to analyze a company to see their shortcomings and be able
-#                                              to extract data to demonstrate trends. <br/> <br/> kdjfd},
-#             {title: foo11, description: <p> foofoofoo11},
-#             {title: foo12, description: <p> foofoofoo12},
-#          ]
+-   category: Technology 
+    icon: database
+    active: true
+    jobs: [  
+            {title: foo10, description: <p> Candidate must have ERP technical skills and intellectual curiosity.
+                                             Have the ability to analyze a company to see their shortcomings and be able
+                                             to extract data to demonstrate trends. <br/> <br/> kdjfd},
+            {title: foo11, description: <p> foofoofoo11},
+            {title: foo12, description: <p> foofoofoo12},
+         ]
 
-# -   category: Sales
-#     icon: users
-#     jobs: [
-#             {title: foo20, description: <p> foofoofoo20},
-#             {title: foo21, description: <p> foofoofoo21}
-#           ]
+-   category: Sales
+    icon: users
+    jobs: [
+            {title: foo20, description: <p> foofoofoo20},
+            {title: foo21, description: <p> foofoofoo21}
+          ]
 
-# -   category: Strategy
-#     icon: line-chart
-#     jobs: [
-#             {title: foo30, description: <p> foofoofoo30}
-#          ]
+-   category: Strategy
+    icon: line-chart
+    jobs: [
+            {title: foo30, description: <p> foofoofoo30}
+         ]
 
-# -   category: Strategy2
-#     icon: line-chart
-#     jobs: [
-#             {title: foo40, description: <p> foofoofoo40}
-#          ]
+-   category: Strategy2
+    icon: line-chart
+    jobs: [
+            {title: foo40, description: <p> foofoofoo40}
+         ]
         
