@@ -2,21 +2,31 @@
     icon: database
     active: true
     jobs: [  
-            {title: Intern, description: <p>  <u>Required Skills</u> <br/> Bachelors Degree (or currently pursuing) <br/>
+# =============== HEAD ============
+            {title: Intern,
+             icon2: code,
+             description: <p>  Part Time 25hrs/week</br></br><u>Required Skills</u> </br> Bachelors Degree (or currently pursuing) </br>
                                               2+ years education in Computer Science or related field <br/>
-                                             },
-            {title: foo11, description: <p> foofoofoo11},
-            {title: foo12, description: <p> foofoofoo12},
+            },
+
+            {title: Database Manager,
+            icon2: server,
+            description: <p> Candidate must have ERP technical skills and intellectual curiosity.
+                                             Have the ability to analyze a company to see their shortcomings and be able
+                                             to extract data to demonstrate trends. <br/> <br/>
+            },
          ]
 
 -   category: Sales
     icon: users
     jobs: [
-            {title: foo20, description: <p> foofoofoo20},
-            {title: foo21, description: <p> foofoofoo21},
+        # ==============Head =========
+             {title: ENTER TITLE HERE, description: <p> ENTER DESCRIPTION HERE},
           ]
 
 -   category: Strategy
     icon: line-chart
     jobs: [
+        #=========== Head ============
+            #{title: ENTER TITLE HERE, description: <p> ENTER DESCRIPTION HERE},
          ]

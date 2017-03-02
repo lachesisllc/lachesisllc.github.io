@@ -5,70 +5,77 @@ permalink: /careers/
 ---
 
 
-			<!-- main-container start -->
+<!-- main-container start -->
+<!-- ================ -->
+<section class="main-container">
+
+	<div class="container">
+		<div class="row">
+
+			<!-- main start -->
 			<!-- ================ -->
-			<section class="main-container">
-
-				<div class="container">
-					<div class="row">
-
-						<!-- main start -->
-						<!-- ================ -->
-						<div class="main col-md-12">
-
-							<!-- page-title start -->
-							<!-- ================ -->
-							<h1 class="page-title">Career Opportunities</h1>
-							<div class="separator-2"></div>
-							<!-- page-title end -->
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ut quisquam ab harum hic enim quibusdam aut quasi recusandae temporibus quo voluptatibus, dolorem consectetur ipsam facere ipsa. Commodi sunt, inventore!</p>
-							<!-- Nav tabs -->
-                            {% if site.data.openJobs.size > 0 %}
-							<ul class="nav nav-tabs style-1" role="tablist">
-                            {% for jobCategory in site.data.openJobs %}
+			<div class="main col-md-12">
+				<!-- page-title start -->
+				<!-- ================ -->
+				<h1 class="page-title">Career Opportunities</h1>
+				<div class="separator-2"></div>
+				<!-- page-title end -->
+				<p>Lachesis is looking for talented, driven individuals to join our team. A list of our available opportunites can be found below.</p>
+				<!-- Nav tabs -->
+				{% if site.data.openJobs.size > 0 %}
+					<ul class="nav nav-tabs style-1" role="tablist">
+					<!--# checks to see how many categories there are-->
+					{% for jobCategory in site.data.openJobs %}
+						<!--if no jobs are available in the category, dont create the Tab-->
+						{% if jobCategory.jobs.size > 0 %}
 							{% if jobCategory.category == 'Technology' %}
- 								<li class = "active"><a href="#{{jobCategory.category}}" role="tab" data-toggle="tab"><i class="fa fa-{{jobCategory.icon}} pr-10"></i>{{jobCategory.category}}</a></li>
+								<li class = "active"><a href="#{{jobCategory.category}}" role="tab" data-toggle="tab"><i class="fa fa-{{jobCategory.icon}} pr-10"></i>{{jobCategory.category}}</a></li>
 							{% else %}
-								<li><a href="#{{jobCategory.category}}" role="tab" data-toggle="tab"><i class="fa fa-{{jobCategory.icon}} pr-10"></i>{{jobCategory.category}}</a></li>
+								<li><a href="#{{jobCategory.category}}" role="tab" data-toggle="tab"><i class="fa fa-{{jobCategory.icon}} pr-10"></i>{{jobCategory.category}}</a></li>								
 							{% endif %}
-							{% endfor %}
-							</ul>
-								<!-- Tab panes -->
-							<div class="tab-content">
-								{% for newJob in site.data.openJobs %}
-								{% if newJob.category == 'Technology' %}
-								<div class="tab-pane fade in active" id="{{newJob.category}}">
-								{% else %}
-									<div class="tab-pane fade" id="{{newJob.category}}">
-								{% endif %}
-									<!-- accordion start -->
-									<div class="panel-group collapse-style-1" id="accordion-{{newJob.category}}">
-											{% for job in newJob.jobs %}
-										<div class="panel panel-default">
-											<div class="panel-heading">
-												<h4 class="panel-title">
-													<a data-toggle="collapse" data-parent="accordion-{{newJob.category}}" href="#collapse{{job.title | replace: ' ', '_'}}" class="collapsed">
-														<i class="fa fa-question-circle pr-10"></i> {{job.title}}
-													</a>
-												</h4>
-											</div>
-											<div id="collapse{{job.title | replace: ' ', '_'}}" class="panel-collapse collapse">
-												<div class="panel-body">
-													{{job.description}}
-												</div>
+						{% endif %}
+					{% endfor %}
+					</ul>
+
+					<!-- Tab panes -->
+					<div class="tab-content">
+					{% for newJob in site.data.openJobs %}
+						{% if newJob.category == 'Technology' %}
+							<div class="tab-pane fade in active" id="{{newJob.category}}">
+						{% else %}
+							<div class="tab-pane fade" id="{{newJob.category}}">
+						{% endif %}
+							
+						<!-- accordion start -->
+						<div class="panel-group collapse-style-1" id="accordion-{{newJob.category}}">
+								{% for job in newJob.jobs %}
+									<div class="panel panel-default">
+										<div class="panel-heading">
+											<h4 class="panel-title">
+												<a data-toggle="collapse" data-parent="accordion-{{newJob.category}}" href="#collapse{{job.title | replace: ' ', '_'}}" class="collapsed">
+													<i class="fa fa-{{job.icon2}} pr-10"></i> {{job.title}}
+												</a>
+											</h4>
+										</div>
+										<div id="collapse{{job.title | replace: ' ', '_'}}" class="panel-collapse collapse">
+											<div class="panel-body">
+												{{job.description}}
 											</div>
 										</div>
-											{% endfor %}			
 									</div>
-									<!-- accordion end -->
-									</div>
-								{% endfor %}
-							</div>
-							<!-- Tab panes end -->
-                            {% endif %}							
+									
+								{% endfor %}			
 						</div>
-						<!-- main end -->
-					</div>
+						<!-- accordion end -->
+
+						</div>
+					{% endfor %}
 				</div>
-			</section>
-			<!-- main-container end -->
+				<!-- Tab panes end -->
+				{% endif %}					
+			</div>	
+			<!-- main end -->
+		</div>
+	</div>
+</section>
+<!-- main-container end -->
