@@ -2,7 +2,7 @@
     icon: database
     jobs: [  
         # =============== HEAD ============
-            {title: Intern,
+            {title: Business Analyst Internship,
              icon2: code,
              description: "<p> <u>Job Description</u> </br> Candidate is responsible for assisting the project team with data analysis, custom programming, and website maintenance
                          </br> </br> <u> Required Skills </u> </br> 2+ years pursuing a Bachelor’s degree with a major of CS/MIS </br> Works well in a team enviornment </br> Understanding of commercial
@@ -11,7 +11,7 @@
                          Experience in the following software: Git, Azure Data Services, SSRS, Tableau"
             },
 
-            {title: Database Manager,
+            {title: Business Analyst,
             icon2: server,
             description: "<p> <u> Job Description </u> </br> Provides database applications by developing and modiying architecture, programming, troubleshooting, and security </br> Work closely with others to 
                           extract and manipulate data </br> </br> <u> Required Skills: </u></br> Bachelor's degree in CS/MIS </br> 5+ years relevant experience in database management and business
@@ -25,7 +25,7 @@
     icon: users
     jobs: [
         # ==============Head =========
-             {title: ENTER TITLE HERE, description: <p> ENTER DESCRIPTION HERE},
+            # {title: ENTER TITLE HERE, description: <p> ENTER DESCRIPTION HERE},
           ]
 
 -   category: Strategy
