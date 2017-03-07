@@ -13,9 +13,11 @@
 
             {title: Database Manager,
             icon2: server,
-            description: <p> Candidate must have ERP technical skills and intellectual curiosity.
-                                             Have the ability to analyze a company to see their shortcomings and be able
-                                             to extract data to demonstrate trends. <br/> <br/>
+            description: "<p> <u> Job Description </u> </br> Provides database applications by developing and modiying architecture, programming, troubleshooting, and security </br> Work closely with others to 
+                          extract and manipulate data </br> </br> <u> Required Skills: </u></br> Bachelor's degree in CS/MIS </br> 5+ years relevant experience in database management and business
+                          practices </br> Formulate techniques for quality data collection to ensure adequacy, accuracy, and legitimacy of data </br> Maintains database results by setting and
+                          enforcing industry standards and controls </br> Business acumen </br> Improving the effectiveness of database tools and services </br> </br> <u> Preferred Skills: </u> </br>
+                          Experience in the following programming languages: SQL, Typescript C#, R </br> Experience in the following software: Git, Azure Data Services SSRS, Tableau"
             },
          ]
 
