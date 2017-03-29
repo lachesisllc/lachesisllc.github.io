@@ -4,19 +4,19 @@
         # =============== HEAD ============
             {title: Anaylatics Specialist,
             icon2: server,
-            description: "<p> <u> Job Description </u> </br> Provides database applications by developing and modiying architecture, programming, troubleshooting, and security </br> Work closely with others to 
-                          extract and manipulate data </br> </br> <u> Required Skills: </u> </br> Bachelor's degree in CS/MIS </br> 5+ years relevant experience in database management and business
-                          practices </br> Formulate techniques for quality data collection to ensure adequacy, accuracy, and legitimacy of data </br> Maintains database results by setting and
-                          enforcing industry standards and controls </br> Business acumen </br> Improving the effectiveness of database tools and services </br> </br> <u> Preferred Skills: </u> </br>
-                          Experience in the following programming languages: SQL, Typescript C#, R </br> Experience in the following software: Git, Azure Data Services SSRS, Tableau"
+            description: "<p> <u> Job Description </u> <br/> Provides database applications by developing and modiying architecture, programming, troubleshooting, and security <br/> Work closely with others to 
+                          extract and manipulate data <br/> <br/> <u> Required Skills: </u> <br/> Bachelor's degree in CS/MIS <br/> 2+ years relevant experience in database management and business
+                          practices <br/> Formulate techniques for quality data collection to ensure adequacy, accuracy, and legitimacy of data <br/> Maintains database results by setting and
+                          enforcing industry standards and controls <br/> Business acumen <br/> Improving the effectiveness of database tools and services <br/> <br/> <u> Preferred Skills: </u> <br/>
+                          Experience in the following programming languages: SQL, Typescript C#, R <br/> Experience in the following software: Git, Azure Data Services SSRS, Tableau"
             },
 
             {title: Anaylatics Specialist Internship,
              icon2: code,
-             description: "<p> <u> Job Description </u> </br> Candidate is responsible for assisting the project team with data analysis, custom programming, and website maintenance
-                         </br> </br> <u> Required Skills </u> </br> 2+ years pursuing a Bachelor’s degree with a major of CS/MIS </br> Works well in a team enviornment </br> Understanding of commercial
-                         operations </br> Commercial thinker with the desire to understand business and information systems </br> Ability to extract and manipulate data from client systems </br>
-                         Work based in South Bend, IN </br> </br> <u> Preferred Skills </u> </br> Experience in the following programming languages: SQL, Typescript C#, R </br>
+             description: "<p> <u> Job Description </u> <br/> Candidate is responsible for assisting the project team with data analysis, custom programming, and website maintenance
+                         <br/> <br/> <u> Required Skills </u> <br/> 2+ years pursuing a Bachelor’s degree with a major of CS/MIS <br/> Works well in a team enviornment <br/> Understanding of commercial
+                         operations <br/> Commercial thinker with the desire to understand business and information systems <br/> Ability to extract and manipulate data from client systems <br/>
+                         Work based in South Bend, IN <br/> <br/> <u> Preferred Skills </u> <br/> Experience in the following programming languages: SQL, Typescript C#, R <br/>
                          Experience in the following software: Git, Azure Data Services, SSRS, Tableau"
             },
          ]
@@ -27,16 +27,25 @@
         # ==============Head =========
              {title: Business Development Executive,
               icon2: globe,
-            description: "<p> <u> Job Description </u> </br> Work as an account strategist for our sales team. Search for new and potential clients. Develop business relationships and help in maintaining the relationship with current clients.
-                           Business Development Execuetives drive the growth of the company by generating new business opportunities ot develop the pipeline. The Business Development Executive works in close coordination with other corporate
-                           executives and senior managers of the company and play an important role in creating business development strategies exactly according to the needs of the clients.
-                          </br> </br> <u> Duties and Responsibilities: </u>	 </br> Responsible for lead generation, managing relationship, and clients meetings </br> Researching actively for potential clients </br> Pursuing and maintaining new business
-                           relationships </br> Understanding and obtaining the needs of the clients </br> Respond to the needs of customers and manage sales processes </br> 
-                          Preparing various presentations and should regularly attend client meerings, trade shows conferences etc. </br> Following up clients continususly and responding to client inquiries </br>
-                          Prepare business development strategies according to the needs of the client </br>Securing business opportunities by cultivating mutually beneficial business relationship with current and potential clients </br>
-                           </br> </br> <u> Required Skills: </u> </br> Specialized knowledge like technical training and consulting expertise </br> Excellent observation skills so as to identify the problems accurately </br> 
-                           Good communication skills for knowing and understanding the difficulties of the client </br> Be a strategic thinkers and should have intuitive market abilities </br> Be able to thrive in competitive and dynamic environment
-                           </br> Be an expert in negotiating </br> Have a strong entrepreneurial spirit
+            description: "<p> 
+                         <u> Job Description </u> <br/> Work as an account strategist for our sales team. Search for new and potential clients.
+                         Develop business relationships and help in maintaining the relationship with current clients. Business Development 
+                         Execuetives drive the growth of the company by generating new business opportunities ot develop the pipeline. The Business 
+                         Development Executive works in close coordination with other corporate executives and senior managers of the company
+                         and play an important role in creating business development strategies exactly according to the needs of the clients.
+                         <br/> <br/> <u> Duties and Responsibilities: </u>	 <br/> Responsible for lead generation, managing relationship, and 
+                         clients meetings <br/> Researching actively for potential clients <br/> Pursuing and maintaining new business
+                         relationships <br/> Understanding and obtaining the needs of the clients <br/> Respond to the needs of customers and
+                         manage sales processes <br/> 
+                         Preparing various presentations and should regularly attend client meerings, trade shows conferences etc. <br/> Following 
+                         up clients continususly and responding to client inquiries <br/> Prepare business development strategies according to the 
+                         needs of the client <br/>Securing business opportunities by cultivating mutually beneficial business relationship with 
+                         current and potential clients <br/>
+                         <br/> <u> Required Skills: </u> <br/> 
+                         Specialized knowledge like technical training and consulting expertise <br/> Excellent observation skills so as to 
+                         identify the problems accurately <br/> Good communication skills for knowing and understanding the difficulties of the 
+                         client <br/> Be a strategic thinkers and should have intuitive market abilities <br/> Be able to thrive in competitive and 
+                         dynamic environment <br/> Be an expert in negotiating <br/> Have a strong entrepreneurial spirit
                          "},
           ]
 
