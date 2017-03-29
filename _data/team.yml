@@ -129,12 +129,4 @@
                 </p>
               "]
   experiences: [
-               { name: Aerospace, weight: 15 },
-               { name: Automotive, weight: 20 },
-               { name: Banking, weight: 75 },
-               { name: Construction, weight: 15 },
-               { name: Finance, weight: 65 },
-               { name: Insurance, weight: 25 },
-               { name: Manufacturing, weight: 99 },
-               { name: Logistics, weight: 85 }
-             ]
+               ]
