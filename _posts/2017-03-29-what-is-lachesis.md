@@ -12,7 +12,7 @@ I was pleased to learn that it's the former of the two.
 
 Lachesis was one of the Three Moirai (Fates) in Greek mythology. Her sisters were Clotho and Atropos, and they were all daughters of Zeus and Themis. The name Lachesis derives from the verb meaning "to obtain by fate, lot, or divine will". She had the task of measuring the thread of life that was spun on the spindle Clotho held. As a result, she was responsible for deciding how much life each living being on Earth had. After measuring the thread, she also was the decider of a person's destiny.
 
-Source: Greek Mythology
+Source: [Greek Mythology](http://www.greekmythology.com/Other_Gods/Minor_Gods/Lachesis/lachesis.html)
 
 Greek obsessions aside... 
 
