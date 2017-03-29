@@ -93,3 +93,48 @@
                { name: Manufacturing, weight: 85 },
                { name: Logistics, weight: 75 }
              ]
+- name: Julie
+  fullName: Julie Vigue
+  title: Business Development Executive
+  profileImage: /images/profiles/julie-vigue-profile.png
+  linkedInUrl: https://www.linkedin.com/in/julievigue/
+  tagline: <em> Rockstars Rule! </em>
+  phone: +1 574-286-4856
+  email: julie.vigue@lachesisllc.com
+  bioContent: ["
+                <p>
+                The first introduction I had to technology was as an office manager
+                of an ophthalmology office that used an SCO Xenix operating system. 
+                The logic of the operating system made sense to me and I was drawn 
+                to how it worked, how it was used, how it was configured, and how I 
+                could learn more. The next 15 years of my career was spent 
+                supporting, providing solutions and educating customers on the SCO 
+                UNIX operating environment and related applications. 
+                </p>
+                <p>
+                In 2004, realizing I needed a new challenge, my career took a major
+                turn as I moved into sales. At that time, IKON had won awards based
+                on their sales training. Given my experience in the office equipment
+                industry, I joined the IKON team. I was sent to Houston for a two
+                week sales class. Quickly applying that knowledge, I achieved 
+                promotions within the first year and an increase in salary.
+                </p>
+                <p>
+                Today, because of my unique career path, I possess a strong technical
+                foundation coupled with an in-depth knowledge and understanding of the 
+                sales process. I have migrated into sales leadership and look forward 
+                to continuing to grow. The sales process that I learned is based on 
+                empathy with a buyer in order to identify the best solution. This can 
+                be applied to all aspects of life.
+                </p>
+              "]
+  experiences: [
+               { name: Aerospace, weight: 15 },
+               { name: Automotive, weight: 20 },
+               { name: Banking, weight: 75 },
+               { name: Construction, weight: 15 },
+               { name: Finance, weight: 65 },
+               { name: Insurance, weight: 25 },
+               { name: Manufacturing, weight: 99 },
+               { name: Logistics, weight: 85 }
+             ]
