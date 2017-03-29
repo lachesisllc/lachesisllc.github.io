@@ -2,7 +2,6 @@
 layout: inner
 author: Julie
 title: "What is Lachesis?"
-featured_image: '/images/what-is-lachesis.jpg'
 excerpt: 'Over the past few months, we have worked with two high-performing clients who were trying to improve their financial results. Despite the fact that these clients operate in completely different industries and serve completely different customers, there are similarities in the difficulties we faced while helping these companies...'
 ---
 ![Chart]({{ site.url }}/images/what-is-lachesis.jpg)
