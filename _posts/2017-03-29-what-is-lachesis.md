@@ -32,6 +32,6 @@ Following a discovery meeting, the team will write a scope of work to address th
 
 Following the data gathering and analysis, as part of a defined scope of work, the team will create actionable deliverables, and provide follow-up consulting on implementation. 
 
-We will be happy to meet with you (no fee for the initial consultation) to see how the incredible team at Lachesis can provide visibility to data in a way you've never imagined!
+__We will be happy to meet with you (no fee for the initial consultation) to see how the incredible team at Lachesis can provide visibility to data in a way you've never imagined!__
 
-No more guessing....
+__No more guessing....__
