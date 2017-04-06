@@ -130,3 +130,26 @@
               "]
   experiences: [
                ]
+
+- name: Joe
+  fullName: Joe Katuzienski
+  title: Analytics Specialist
+  profileImage: /images/profiles/joe-katuzienski-profile.jpg
+  linkedInUrl: https://www.linkedin.com/in/joseph-katuzienski-934933123/
+  tagline: <em> Programmers Unite! </em>
+  phone: +1 623-850-6067
+  email: joe.katuzienski@lachesisllc.com
+  bioContent: ["
+                <p>
+                Joe has always had a passion for computers, mathematics, and problem solving.
+                He has a grasp of a wide array of programming languages such as C++, Python, and Java.
+                Joe is also a quick learner and dedicated worker. He is also Treasurer for the Michiana Moose Rugby Football Club.
+                </p>
+                <p>
+                Joe is currently pursuing a B.S. in Computer Science at Indiana University South Bend and will graduate in May 2017.
+                </p>
+                "]
+  experiences: [
+               ]
+
+
