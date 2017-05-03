@@ -1,0 +1,30 @@
+---
+layout: inner
+author: Julie
+title: "Are you working IN or ON the business?"
+featured_image: '/images/blue-modern-business-man-chart.jpg'
+excerpt: "Making the transition from working IN the business to working ON the business is a decision every business owner will face. Many owners are entrepreneurs and through blood, sweat, and tears made the company what it is today; many inherited the organization and the same processes that grew the company to what it is today are still in place; while others made their way through the ranks to the CEO position and have visions beyond the current state of status quo. 
+
+Last week I met with the current CEO of a $12M organization that simply stated \"I'm tired of working IN the business and want to concentrate on working ON the business.\" As we continued to chat over lunch I began to understand his concerns. He's been working in the business throughout his entire career, how do you start unraveling yourself from the fabric of the organization while taking it to new heights? 
+
+Here are some things to consider......"
+---
+![Chart]({{ site.url }}/images/blue-modern-business-man-chart.jpg)
+
+Making the transition from working IN the business to working ON the business is a decision every business owner will face. Many owners are entrepreneurs and through blood, sweat, and tears made the company what it is today; many inherited the organization and the same processes that grew the company to what it is today are still in place; while others made their way through the ranks to the CEO position and have visions beyond the current state of status quo. 
+
+Last week I met with the current CEO of a $12M organization that simply stated "I'm tired of working IN the business and want to concentrate on working ON the business." As we continued to chat over lunch, I began to understand his concerns. He's been working in the business throughout his entire career, how do you start unraveling yourself from the fabric of the organization while taking it to new heights? 
+
+Here are some things to consider.
+
+* __Delegating:__ As an entrepreneur, you've probably had to do every task in the company, i.e. making appointments, sending invoices, project management, payroll, sales, etc. And, as you grew, the responsibilities have been delegated to others. Choosing which tasks, to whom and when will be considerations as you continue to make the transition to working ON the business.
+* __Infallible Process:__ Confidently letting go of the daily responsibilities requires processes in place to effectively manage the results. Process also ensures consistency in efforts among many employees.
+* __Communication:__ Being a firm believer in over-communicating, the entire team needs to receive feedback on a regular basis, direction of the company and department, targets/goals for a given period, i.e. monthly, quarterly, annually, etc. Making sure that everyone is on the same page requires constant and consistent messaging.
+* __Set Clear Priorities:__ When team leaders and members arrive each day, they need to have a clear direction of what activities and tasks much be accomplished first in accordance with the organizational goals.
+* __Reporting Criteria:__ This is one of the biggest considerations when stepping away from the day-to-day activities. It's imperative to identify the data that needs to be tracked, measured and managed on a daily, weekly, monthly basis. Moving away from the business requires looking at the business in a different way. Reporting is key.
+* __Manage Expectations:__ Along with Communication and Setting Clear Priorities, the team members need to know the expectations of their efforts. Whether it's sales quota, accounts receivable collection percentages, production, etc., everyone needs to have a scoreboard. What does below average, average, good and great look like?
+* __Culture:__ One the hottest topics in today's work environment, understanding the current culture of the organization and how it will change if you, as the owner, are no longer involved in day-to-day activities. Are you the glue that holds the seams together? If so, spend as much time as necessary to make sure the culture remains. If it's time for a culture change, incorporate the move that you'll make into the newly desired culture.
+* __Humility in Leadership:__ Probably one of the most common characteristics of business owners is confidence coupled with a bit of arrogance. Have you ever thought, or heard others say "This company would be nothing without me?", or "I have to stay involved because there's no one that can do it better than I can?". It's time to take a hard look in the mirror. Though there's no one that had the vision you had to start and grow the organization to this point, open your mind that others may be smarter or better than you in some areas. Surround yourself with an experienced, proven team of professionals and share your vision. You'll be amazed at what you can accomplish with a strong team!
+* __Trust:__ Probably the most difficult part of business is knowing who and when to trust where the future and success of your business is concerned. Start with small wins. As confidence grows that the person has the same vision, priorities, and communication skills, the trust will continue to grow. This is imperative to growth. Remember, to grow, you'll have to trust that others will be able to accomplish tasks without your input. Empower them!
+
+When you're ready to begin and are looking for a good place to start, please contact me. I'll be happy to schedule lunch, or a conference call with one of the founders - where the only cost will be your time. It will be time well spent!  With years of multi-national experience growing business units from $10M to >$100M, they'll be able to assist in formulating a plan to assist you in reaching your goals.
