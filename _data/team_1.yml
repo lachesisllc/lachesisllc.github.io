@@ -1,3 +1,38 @@
+- name: Mike
+  fullName: Michael Topa
+  title: Partner
+  profileImage: /images/profiles/mike-topa-profile.jpg
+  linkedInUrl: https://www.linkedin.com/in/valuecreationexecutive
+  tagline: <em> Takes residence in the eye of the storm. </em>
+  phone: +1 574-538-4836
+  email: mike.topa@lachesisllc.com
+  bioContent: ["
+           <p> Mike's private equity experience includes five portfolio
+               companies, three in which he was an investor as well
+               an operating executive. Additionally, he has served as
+               interim CFO and Director of MISCOR Group, a publicly
+               traded company, prior to its successful merger into
+               Integrated Electrical Services. </p>
+           <p> He has held C-level and Director positions with
+               businesses ranging in revenues from $20M to $250M.
+               All of Mike’s engagements have been high growth,
+               start-up or turnaround situations, most highly 
+               leveraged.</p>
+           <p> Mike has BA degrees in Accounting and Business
+               Systems Analysis. Additionally, he holds a certified
+               public accountant license from the State of Ohio (non-
+               practicing).</p>
+               "]
+  experiences: [
+               { name: Aerospace, weight: 99 },
+               { name: Automotive, weight: 95 },
+               { name: Banking, weight: 65 },
+               { name: Construction, weight: 85 },
+               { name: Finance, weight: 95 },
+               { name: Insurance, weight: 50 },
+               { name: Manufacturing, weight: 99 },
+               { name: Logistics, weight: 99 }
+              ]
 - name: Steve
   fullName: Steve Gawronski
   title: Partner
