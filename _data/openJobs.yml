@@ -2,14 +2,14 @@
     icon: database
     jobs: [  
         # =============== HEAD ============
-            {title: Anaylatics Specialist,
-            icon2: server,
-            description: "<p> <u> Job Description </u> <br/> Provides database applications by developing and modiying architecture, programming, troubleshooting, and security <br/> Work closely with others to 
-                          extract and manipulate data <br/> <br/> <u> Required Skills: </u> <br/> Bachelor's degree in CS/MIS <br/> 2+ years relevant experience in database management and business
-                          practices <br/> Formulate techniques for quality data collection to ensure adequacy, accuracy, and legitimacy of data <br/> Maintains database results by setting and
-                          enforcing industry standards and controls <br/> Business acumen <br/> Improving the effectiveness of database tools and services <br/> <br/> <u> Preferred Skills: </u> <br/>
-                          Experience in the following programming languages: SQL, Typescript C#, R <br/> Experience in the following software: Git, Azure Data Services SSRS, Tableau"
-            },
+            # {title: Anaylatics Specialist,
+            # icon2: server,
+            # description: "<p> <u> Job Description </u> <br/> Provides database applications by developing and modiying architecture, programming, troubleshooting, and security <br/> Work closely with others to 
+            #               extract and manipulate data <br/> <br/> <u> Required Skills: </u> <br/> Bachelor's degree in CS/MIS <br/> 2+ years relevant experience in database management and business
+            #               practices <br/> Formulate techniques for quality data collection to ensure adequacy, accuracy, and legitimacy of data <br/> Maintains database results by setting and
+            #               enforcing industry standards and controls <br/> Business acumen <br/> Improving the effectiveness of database tools and services <br/> <br/> <u> Preferred Skills: </u> <br/>
+            #               Experience in the following programming languages: SQL, Typescript C#, R <br/> Experience in the following software: Git, Azure Data Services SSRS, Tableau"
+            # },
 
             {title: Anaylatics Specialist Internship,
              icon2: code,
@@ -24,40 +24,40 @@
 -   category: Sales
     icon: users
     jobs: [
-        # ==============Head =========
-             {title: Business Development Executive,
-              icon2: globe,
-            description: "<p> 
-                         <u> Job Description </u> 
-                         <br/> Work as an account strategist for our sales team. Search for new and potential clients.
-                         Develop business relationships and help in maintaining the relationship with current clients. Business Development 
-                         Execuetives drive the growth of the company by generating new business opportunities ot develop the pipeline. The Business 
-                         Development Executive works in close coordination with other corporate executives and senior managers of the company
-                         and play an important role in creating business development strategies exactly according to the needs of the clients.
-                         <br/> 
-                         <br/> 
-                         <u> Duties and Responsibilities: </u>	 
-                         <br/> Responsible for lead generation, managing relationship, and clients meetings 
-                         <br/> Researching actively for potential clients 
-                         <br/> Pursuing and maintaining new business relationships
-                         <br/> Understanding and obtaining the needs of the clients 
-                         <br/> Respond to the needs of customers and manage sales processes 
-                         <br/> Preparing various presentations and should regularly attend client meerings, trade shows conferences etc. 
-                         <br/> Following with up clients continususly and responding to client inquiries 
-                         <br/> Prepare business development strategies according to the needs of the client 
-                         <br/>Securing business opportunities by cultivating mutually beneficial business relationship with 
-                         current and potential clients 
-                         <br/>
-                         <br/> 
-                         <u> Required Skills: </u> 
-                         <br/> Specialized industry knowledge and/or consulting expertise 
-                         <br/> Excellent observation skills to identify challenges/problems accurately  
-                         <br/> Good communication skills for knowing and understanding the difficulties of the client 
-                         <br/> Be a strategic thinker with intuitive market abilities 
-                         <br/> Possess the ability to thrive in a competitive and dynamic environment  
-                         <br/> Be an expert in negotiating 
-                         <br/> Have a strong entrepreneurial spirit
-                         "},
+        # # ==============Head =========
+        #      {title: Business Development Executive,
+        #       icon2: globe,
+        #     description: "<p> 
+        #                  <u> Job Description </u> 
+        #                  <br/> Work as an account strategist for our sales team. Search for new and potential clients.
+        #                  Develop business relationships and help in maintaining the relationship with current clients. Business Development 
+        #                  Execuetives drive the growth of the company by generating new business opportunities ot develop the pipeline. The Business 
+        #                  Development Executive works in close coordination with other corporate executives and senior managers of the company
+        #                  and play an important role in creating business development strategies exactly according to the needs of the clients.
+        #                  <br/> 
+        #                  <br/> 
+        #                  <u> Duties and Responsibilities: </u>	 
+        #                  <br/> Responsible for lead generation, managing relationship, and clients meetings 
+        #                  <br/> Researching actively for potential clients 
+        #                  <br/> Pursuing and maintaining new business relationships
+        #                  <br/> Understanding and obtaining the needs of the clients 
+        #                  <br/> Respond to the needs of customers and manage sales processes 
+        #                  <br/> Preparing various presentations and should regularly attend client meerings, trade shows conferences etc. 
+        #                  <br/> Following with up clients continususly and responding to client inquiries 
+        #                  <br/> Prepare business development strategies according to the needs of the client 
+        #                  <br/>Securing business opportunities by cultivating mutually beneficial business relationship with 
+        #                  current and potential clients 
+        #                  <br/>
+        #                  <br/> 
+        #                  <u> Required Skills: </u> 
+        #                  <br/> Specialized industry knowledge and/or consulting expertise 
+        #                  <br/> Excellent observation skills to identify challenges/problems accurately  
+        #                  <br/> Good communication skills for knowing and understanding the difficulties of the client 
+        #                  <br/> Be a strategic thinker with intuitive market abilities 
+        #                  <br/> Possess the ability to thrive in a competitive and dynamic environment  
+        #                  <br/> Be an expert in negotiating 
+        #                  <br/> Have a strong entrepreneurial spirit
+        #                  "},
           ]
 
 -   category: Strategy

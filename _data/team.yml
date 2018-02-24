@@ -1,6 +1,6 @@
 - name: Steve
   fullName: Steve Gawronski
-  title: Partner
+  title: Managing Partner
   profileImage: /images/profiles/steve-gawronski-profile.jpg
   linkedInUrl: https://www.linkedin.com/in/steve-gawronski-86511447
   tagline: <em> Can't live without a white board. </em>
@@ -21,16 +21,41 @@
                member of the Irish Angels investment group and he
                is a licensed CPA in Indiana and Illinois.</p>
                "]
-  experiences: [
-               { name: Aerospace, weight: 25 },
-               { name: Automotive, weight: 90 },
-               { name: Banking, weight: 85 },
-               { name: Construction, weight: 75 },
-               { name: Finance, weight: 95 },
-               { name: Insurance, weight: 50 },
-               { name: Manufacturing, weight: 95 },
-               { name: Logistics, weight: 80 }
-              ]
+- name: Terry
+  fullName: Terrence Ploetz
+  title: Partner
+  profileImage: /images/profiles/terrence-ploetz-profile.png
+  linkedInUrl: https://www.linkedin.com/in/terrence-ploetz-5596263/
+  tagline: <em> Hapiest when giving. </em>
+  phone: +1 574-242-9107
+  email: terry.ploetz@lachesisllc.com
+  bioContent: ["
+                <p>
+                Terry has over 20 years of financial and banking experience with an
+                expertise in serving the needs of clients from $5 million to $600
+                million.  Terry has award winning experience from community banks
+                that are privately held all the way to the largest bank in the US.
+                In his journey, he gained knowledge that perfected methods from which
+                he could deliver an ideal client experience while maintaining a high
+                level of performance.  Terry will tell you it’s his focus networking
+                tactics that helped him manage the risk for his clients while
+                gaining genuine trust for his brand in the marketplace.  Today Terry
+                is sharing that method and implementing the same style for the client
+                engagement experience at Lachesis.
+                </p>
+                <p>
+                Terry graduated with honors in Psychology at Tempe, Arizona State
+                University and enjoyed his time in the Southwest earning a Masters
+                degree in Business Administration from the University of Phoenix.
+                Soon after the completion of his education he moved back home to
+                South Bend.  Today Terry is fortunate to be the father of two
+                wonderful children and a loving wife.
+                </p>
+                <p>
+                Terry has a BA degree in Psychology from ASU and an MBA from the
+                University of Phoenix.
+                </p>
+              "]
 - name: Chris
   fullName: Christopher Keslin
   title: Partner
@@ -45,14 +70,14 @@
                son to the family in 2015.  He studied Chemistry and 
                Physics at Indiana University then began his career at 
                Indiana University’s Center for Research on Learning and 
-               Technology where he developed a passion for applying 
-               technology to solve real world problems.  His passion led 
-               him to Avanade, a joint venture between Microsoft and 
-               Accenture, that sharpened his skills developing custom 
+               Technology (CRLT).  The CRLT is where he developed a passion 
+               for applying technology to solve real world problems.  
+               His passion led him to Avanade, a joint venture between Microsoft and 
+               Accenture.  Avanade sharpened his skills developing custom 
                solutions backed by machine learning and advanced analytics 
                to complex business scenarios in some of the world’s 
                largest organizations.  Ultimately, he joined Capax Global 
-               and worked his way up to partner by consistently developing 
+               working his way up to partner by consistently developing 
                teams and solutions to tackle the toughest problems his 
                customers faced.  The solutions utilized strategies such as 
                business intelligence, machine learning, and cloud based 
@@ -63,16 +88,6 @@
            <p> Chris has a BS degree in Physics and a BS degree in
                Chemistry from Indiana University.</p>
                "]
-  experiences: [
-               { name: Aerospace, weight: 65 },
-               { name: Automotive, weight: 25 },
-               { name: Banking, weight: 85 },
-               { name: Construction, weight: 95 },
-               { name: Finance, weight: 65 },
-               { name: Insurance, weight: 80 },
-               { name: Manufacturing, weight: 85 },
-               { name: Logistics, weight: 75 }
-             ]
 - name: Julie
   fullName: Julie Vigue
   title: Business Development Executive
@@ -108,17 +123,20 @@
                 be applied to all aspects of life.
                 </p>
               "]
-  experiences: [
-               ]
 - name: Joe
   fullName: Joe Katuzienski
-  title: Analytics Specialist
+  title: Analytics Specialist Intern - Alumnus
   profileImage: /images/profiles/joe-katuzienski-profile.jpg
   linkedInUrl: https://www.linkedin.com/in/joseph-katuzienski-934933123/
   tagline: <em> Programmers Unite! </em>
   phone: +1 623-850-6067
   email: joe.katuzienski@lachesisllc.com
   bioContent: ["
+                <p>
+                Join us in congratulating Joe!  He has accepted a full time position at Lebermuth.  We couldn't be more excited
+                or proud of Joe's accomplishments with us as an intern, and are excited to see what he'll do as he enters the
+                workforce!
+                </p>
                 <p>
                 Joe has always had a passion for computers, mathematics, and problem solving.
                 He has a grasp of a wide array of programming languages such as C++, Python, and Java.
@@ -128,7 +146,5 @@
                 Joe is currently pursuing a B.S. in Computer Science at Indiana University South Bend and will graduate in May 2017.
                 </p>
                 "]
-  experiences: [
-               ]
 
 

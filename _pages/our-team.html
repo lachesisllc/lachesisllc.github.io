@@ -36,7 +36,7 @@ permalink: /our-team/
 											</div>
 										</div>
 									</div>
-									<div class="col-sm-6 col-md-4 col-lg-6">
+									<div class="col-sm-6 col-md-8 col-lg-6">
 										<div class="body">
 											<h3 class="title margin-clear">{{ member.fullName }} - <small>{{ member.title }}</small></h3>
 											<div class="separator-2 mt-10"></div>
@@ -48,17 +48,6 @@ permalink: /our-team/
 											<a href="tel:{{ member.phone | remove: ' ' | remove: '+' | remove: '-' }}" class="btn btn-gray-transparent"><i class="pr-10 fa margin-clear fa-phone"></i>Call</a>
 											<a href="mailto:{{ member.email}}" class="btn btn-gray-transparent"><i class="pr-10 margin-clear fa fa-envelope-o"></i>Contact</a>
 										</div>
-									</div>
-									<div class="col-sm-12 col-md-4 col-lg-3">
-										<div class="pv-20 visible-lg visible-md"></div>
-                                        {% for experience in member.experiences %}
-										<div class="progress style-1 dark">
-											<span class="text"></span>
-											<div class="progress-bar progress-bar-white" role="progressbar" data-animate-width="{{ experience.weight }}%">
-												<span class="label object-non-visible" data-animation-effect="fadeInLeftSmall" data-effect-delay="1000">{{ experience.name }}</span>
-											</div>
-										</div>
-                                        {% endfor %}
 									</div>
 								</div>
 							</div>
