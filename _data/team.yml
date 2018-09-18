@@ -90,41 +90,28 @@
            <p> Chris has a BS degree in Physics and a BS degree in
                Chemistry from Indiana University.</p>
                "]
-# - name: Julie
-#   fullName: Julie Vigue
-#   title: Business Development Executive
-#   profileImage: /images/profiles/julie-vigue-profile.png
-#   linkedInUrl: https://www.linkedin.com/in/julievigue/
-#   tagline: <em> Rockstars Rule! </em>
-#   phone: +1 574-286-4856
-#   email: julie.vigue@lachesisllc.com
-#   bioContent: ["
-#                 <p>
-#                 The first introduction I had to technology was as an office manager
-#                 of an ophthalmology office that used an SCO Xenix operating system. 
-#                 The logic of the operating system made sense to me and I was drawn 
-#                 to how it worked, how it was used, how it was configured, and how I 
-#                 could learn more. The next 15 years of my career was spent 
-#                 supporting, providing solutions and educating customers on the SCO 
-#                 UNIX operating environment and related applications. 
-#                 </p>
-#                 <p>
-#                 In 2004, realizing I needed a new challenge, my career took a major
-#                 turn as I moved into sales. At that time, IKON had won awards based
-#                 on their sales training. Given my experience in the office equipment
-#                 industry, I joined the IKON team. I was sent to Houston for a two
-#                 week sales class. Quickly applying that knowledge, I achieved 
-#                 promotions within the first year and an increase in salary.
-#                 </p>
-#                 <p>
-#                 Today, because of my unique career path, I possess a strong technical
-#                 foundation coupled with an in-depth knowledge and understanding of the 
-#                 sales process. I have migrated into sales leadership and look forward 
-#                 to continuing to grow. The sales process that I learned is based on 
-#                 empathy with a buyer in order to identify the best solution. This can 
-#                 be applied to all aspects of life.
-#                 </p>
-#               "]
+- name: Dan
+  fullName: Dan Tutton
+  title: Sr. Analytics Specialist
+  profileImage: /images/profiles/dan-tutton-profile.jpg
+  linkedInUrl: https://www.linkedin.com/in/dan-tutton/
+  tagline: <em> Engineering Practical Solutions </em>
+  phone: +1 360-477-2381
+  email: dan.tutton@lachesisllc.com
+  bioContent: ["
+                <p>
+                Dan has had a passion for programming since high school when his prize possession was a programmable TI Calculator.  The thrill of coding has never died for Dan, as he wrote programs to transpose music and solve indeterminate structures in college, programs to calculate earthwork and storm sewer design as a young Civil Engineer, programs to analyze linguistic data when working as a field linguist in Peru, programs to analyzing child story retell protocols for his masters degree, programs to format non-Roman fonts for dictionary publication working in linguistic support, working for Pizer on the storm and sewer Model HYDRA, where his innovations let to a tripling of company gross in just three years, and for 18 years, the lead programmer for the ADS Sli/icer software, which won the prestigious Water Environment Federation Innovative Technology Award (Collection Systems Category) for 2009, and is still a favorite with ADS partners and customers after nearly 24 years in use.
+                </p>
+                <p>
+                When not working, Dan is busy teaching instrumental music to homeschool students in Clallam Co. Washington, as the founder and music director of the award winning Northwinds Homeschool Band program.
+                </p>
+                <p>
+                Dan programs in JavaScript, C#, TypeScript and R, and is familiar with a large number of technologies, including:  HighCharts, MS Access, SQL Server, Azure Table Storage, LINQ, MS MVC, MVVM, Web API, REST, Http, CSS, SASS, Angular, DI, MSTest, Moq, Angular, Azure ML, Windows Forms, WPF, HTML, XAML, and GIT.
+                </p>
+                <p>
+                Dan has a BS in Civil Engineering from the University of California, Davis, and a MA in Linguistics from the University of Texas at Arlington.
+                </p>
+              "]
 - name: Joe
   fullName: Joe Katuzienski
   title: Analytics Specialist Intern - Alumnus
@@ -132,7 +119,7 @@
   linkedInUrl: https://www.linkedin.com/in/joseph-katuzienski-934933123/
   tagline: <em> Programmers Unite! </em>
   phone: +1 623-850-6067
-  email: joe.katuzienski@lachesisllc.com
+  email: jkatuzienski@lebermuth.com
   bioContent: ["
                 <p>
                 Join us in congratulating Joe!  He has accepted a full time position at Lebermuth.  We couldn't be more excited
@@ -145,7 +132,7 @@
                 Joe is also a quick learner and dedicated worker. He is also Treasurer for the Michiana Moose Rugby Football Club.
                 </p>
                 <p>
-                Joe is currently pursuing a B.S. in Computer Science at Indiana University South Bend and will graduate in May 2017.
+                Joe completed a B.S. in Computer Science at Indiana University South Bend while working at Lachesis.
                 </p>
                 "]
 
