@@ -21,41 +21,6 @@
                member of the Irish Angels investment group and he
                is a licensed CPA in Indiana and Illinois.</p>
                "]
-- name: Terry
-  fullName: Terrence Ploetz
-  title: Partner
-  profileImage: /images/profiles/terrence-ploetz-profile.png
-  linkedInUrl: https://www.linkedin.com/in/terrence-ploetz-5596263/
-  tagline: <em> Happiest when giving. </em>
-  phone: +1 574-242-9107
-  email: terry.ploetz@lachesisllc.com
-  bioContent: ["
-                <p>
-                Terry has over 20 years of financial and banking experience with an
-                expertise in serving the needs of clients from $5 million to $600
-                million.  Terry has award winning experience from community banks
-                that are privately held all the way to the largest bank in the US.
-                In his journey, he gained knowledge that perfected methods from which
-                he could deliver an ideal client experience while maintaining a high
-                level of performance.  Terry will tell you it’s his focus networking
-                tactics that helped him manage the risk for his clients while
-                gaining genuine trust for his brand in the marketplace.  Today Terry
-                is sharing that method and implementing the same style for the client
-                engagement experience at Lachesis.
-                </p>
-                <p>
-                Terry graduated with honors in Psychology at Tempe, Arizona State
-                University and enjoyed his time in the Southwest earning a Masters
-                degree in Business Administration from the University of Phoenix.
-                Soon after the completion of his education he moved back home to
-                South Bend.  Today Terry is fortunate to be the father of two
-                wonderful children and a loving wife.
-                </p>
-                <p>
-                Terry has a BA degree in Psychology from ASU and an MBA from the
-                University of Phoenix.
-                </p>
-              "]
 - name: Chris
   fullName: Christopher Keslin
   title: Partner
@@ -110,6 +75,41 @@
                 </p>
                 <p>
                 Dan has a BS in Civil Engineering from the University of California, Davis, and a MA in Linguistics from the University of Texas at Arlington.
+                </p>
+              "]
+- name: Terry
+  fullName: Terrence Ploetz
+  title: Advisory Board Member
+  profileImage: /images/profiles/terrence-ploetz-profile.png
+  linkedInUrl: https://www.linkedin.com/in/terrence-ploetz-5596263/
+  tagline: <em> Happiest when giving. </em>
+  phone: +1 574-242-9107
+  email: terry.ploetz@lachesisllc.com
+  bioContent: ["
+                <p>
+                Terry has over 20 years of financial and banking experience with an
+                expertise in serving the needs of clients from $5 million to $600
+                million.  Terry has award winning experience from community banks
+                that are privately held all the way to the largest bank in the US.
+                In his journey, he gained knowledge that perfected methods from which
+                he could deliver an ideal client experience while maintaining a high
+                level of performance.  Terry will tell you it’s his focus networking
+                tactics that helped him manage the risk for his clients while
+                gaining genuine trust for his brand in the marketplace.  Today Terry
+                is sharing that method and implementing the same style for the client
+                engagement experience at Lachesis.
+                </p>
+                <p>
+                Terry graduated with honors in Psychology at Tempe, Arizona State
+                University and enjoyed his time in the Southwest earning a Masters
+                degree in Business Administration from the University of Phoenix.
+                Soon after the completion of his education he moved back home to
+                South Bend.  Today Terry is fortunate to be the father of two
+                wonderful children and a loving wife.
+                </p>
+                <p>
+                Terry has a BA degree in Psychology from ASU and an MBA from the
+                University of Phoenix.
                 </p>
               "]
 - name: Joe
